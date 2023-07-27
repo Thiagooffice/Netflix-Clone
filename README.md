@@ -3,6 +3,10 @@
 
 Repository for a FullStack Netflix Clone Project using React, NextJS, TailwindCSS and Prisma.
 
+- ## Project Link
+  [Clique Here](https://zn-movies.vercel.app/auth)
+
+
 Features:
 
 - Environment, Typescript, NextJS Setup
